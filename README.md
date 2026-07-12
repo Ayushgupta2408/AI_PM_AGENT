@@ -1,8 +1,6 @@
 # Spec/Agent — AI Product Manager 
 #### Spec/Agent is an AI-powered product management platform that transforms a simple product idea into a complete technical product specification within seconds.
-
-Users provide a short description of their idea, such as "Build a food delivery app", and the system automatically generates:
-
+```
 -Detailed product requirements
 -User stories and feature lists
 -Database schema design
@@ -10,7 +8,7 @@ Users provide a short description of their idea, such as "Build a food delivery 
 -System architecture diagrams
 -Sprint planning and development roadmap
 -Technical documentation for developers
-
+```
 ## DEMO - https://youtu.be/Ao-HROczTbU
 
 - Requirements document
