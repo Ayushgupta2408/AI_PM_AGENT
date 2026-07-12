@@ -9,6 +9,8 @@
 -Sprint planning and development roadmap
 -Technical documentation for developers
 ```
+<img width="1861" height="887" alt="image" src="https://github.com/user-attachments/assets/83ce26bd-d51a-48bd-b5ea-2c0535137358" />
+
 ## DEMO - https://youtu.be/Ao-HROczTbU
 
 - Requirements document
