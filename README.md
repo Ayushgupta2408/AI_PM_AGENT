@@ -116,7 +116,7 @@ Open **http://localhost:5173**.
 Swap `GROQ_MODEL` in `.env` to any current Groq-hosted model (check
 https://console.groq.com/docs/models for what's live) — no other code changes needed.
 
-## 7. Notes
+## 7. Notes 
 
 - If Mongo isn't running, the backend will exit on boot with a clear error — start
   `mongod` (or point `MONGO_URI` at an Atlas connection string) first.
